@@ -13,7 +13,6 @@ TIP: Use the remainder operator
 TIP: 1 hour = 60 minutes
 TIP: 1 day = 24 hours
 TIP: 1 year = 365 days
-
 NOTE: The printYearsAndDays method needs to be defined as public static ​like we have been doing so far in the course.
 NOTE: Do not add main method to solution code.
 NOTE: The solution will not be accepted if there are extra spaces
